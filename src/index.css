@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'SFProDisplay-Regular';
+  src: url('./fonts/SFProDisplay-Regular/SFProDisplay-Regular.woff2') format('woff2'),
+      url('./fonts/SFProDisplay-Regular/SFProDisplay-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SFProDisplay-Semibold';
+  src: url('./fonts/SFProDisplay-Semibold/SFProDisplay-Semibold.woff2') format('woff2'),
+      url('./fonts/SFProDisplay-Semibold/SFProDisplay-Semibold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SFProText-Semibold';
+  src: url('./fonts/SFProText-Semibold/SFProText-Semibold.woff2') format('woff2'),
+      url('./fonts/SFProText-Semibold/SFProText-Semibold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SFProText-Medium';
+  src: url('./fonts/SFProText-Medium/SFProText-Medium.woff2') format('woff2'),
+      url('./fonts/SFProText-Medium/SFProText-Medium.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
